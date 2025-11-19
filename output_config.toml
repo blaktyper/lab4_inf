@@ -1,0 +1,34 @@
+[informatics_lab_1]
+subject = "Информатика (Лаб ппыпльыплдыьплыд)"
+group = "ИНФОРМ (P3116)"
+subgroup = "1.11"
+time_slot = "17:10-18:40"
+weeks = [2, 4, 6, 8, 10, 12, 14, 16]
+classroom = "3315 АУД."
+address = "ул. Ломоносова, д.9, лит. Е"
+format = "Очно-дистанционный"
+day_of_week = "Четверг"
+
+[informatics_lab_2]
+subject = "Информатика (Лаб)"
+group = "ИНФОРМ (P3116)"
+subgroup = "1.11"
+time_slot = "18:50-20:20"
+weeks = [2, 4, 6, 8, 10, 12, 14, 16]
+classroom = "3315 АУД."
+address = "ул. Ломоносова, д.9, лит. Е"
+format = "Очно-дистанционный"
+day_of_week = "Четверг"
+
+[academic_config]
+semester = "Осенний 2024"
+faculty = "Информационные технологии"
+address = "ул. Ломоносова, д.9"
+name = "Основной учебный корпус"
+
+[locals]
+common_weeks = [2, 4, 6, 8, 10, 12, 14, 16]
+common_location = "{"
+classroom = "3315 АУД."
+address = "ул. Ломоносова, д.9, лит. Е"
+

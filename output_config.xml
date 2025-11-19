@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<root>
+  <lessons>
+    <informatics_lab_1>
+      <subject>Информатика (Лаб ппыпльыплдыьплыд)</subject>
+      <group>ИНФОРМ (P3116)</group>
+      <subgroup>1.11</subgroup>
+      <time_slot>17:10-18:40</time_slot>
+      <weeks>[2, 4, 6, 8, 10, 12, 14, 16]</weeks>
+      <classroom>3315 АУД.</classroom>
+      <address>ул. Ломоносова, д.9, лит. Е</address>
+      <format>Очно-дистанционный</format>
+      <day_of_week>Четверг</day_of_week>
+    </informatics_lab_1>
+    <informatics_lab_2>
+      <subject>Информатика (Лаб)</subject>
+      <group>ИНФОРМ (P3116)</group>
+      <subgroup>1.11</subgroup>
+      <time_slot>18:50-20:20</time_slot>
+      <weeks>[2, 4, 6, 8, 10, 12, 14, 16]</weeks>
+      <classroom>3315 АУД.</classroom>
+      <address>ул. Ломоносова, д.9, лит. Е</address>
+      <format>Очно-дистанционный</format>
+      <day_of_week>Четверг</day_of_week>
+    </informatics_lab_2>
+  </lessons>
+  <academic_config>
+    <semester>Осенний 2024</semester>
+    <faculty>Информационные технологии</faculty>
+    <address>ул. Ломоносова, д.9</address>
+    <name>Основной учебный корпус</name>
+  </academic_config>
+  <locals>
+    <common_weeks>[2, 4, 6, 8, 10, 12, 14, 16]</common_weeks>
+    <common_location>{</common_location>
+    <classroom>3315 АУД.</classroom>
+    <address>ул. Ломоносова, д.9, лит. Е</address>
+  </locals>
+</root>
